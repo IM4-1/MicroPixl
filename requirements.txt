@@ -1,0 +1,4 @@
+customtkinter>=5.2
+pillow>=9.0.0
+pytesseract>=0.3.10
+vtracer>=0.0.6
